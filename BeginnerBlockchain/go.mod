@@ -1,3 +1,3 @@
-module github.com/yasin-yumrutas
+module block
 
 go 1.20
